@@ -22,4 +22,4 @@
 
  
 
-  <img align="right" alt="GIF" src="https://midu.dev/images/wallpapers/javascript-small-horizontal-4k.png" />
+  <img align="right" alt="GIF" src="https://trellat.es/wp-content/uploads/2015/02/javascript_logo.png" />
