@@ -1,10 +1,10 @@
 //Alan el Programador 
 
-//CALCULADORA EN JAVASCRIPT
+//CALCULADORA EN JAVASCRIPT con las cuatro operaciones basicas a traves de los numeros ingresados por teclado
 
 
 var numero_a= prompt("Ingrese el primer numero: ");
-numero_a = parseInt(numero_a);//Se tranforma el vaalor digitado a int
+numero_a = parseInt(numero_a);//Se tranforma el valor digitado a int
 
 
 var numero_b= prompt("Ingrese el segundo numero: ")
@@ -14,15 +14,12 @@ numero_b = parseInt(numero_b);
 //Vamos hacer las variables de las operaciones y sus operaciones respectivas
 
 var suma = numero_a + numero_b;//Hacemos la suma
-
 var resta= numero_a - numero_b;//Hacemos la resta
-
 var multiplicacion=numero_a * numero_b;//Hacemos la multiplicacion
-
 var division= numero_a /numero_b; //Hacemos la division
 
 
-//Mostrar los resultados de las operaciones
+//Mostramos los resultados de las operaciones
 console.log("La suma es : "+ suma);
 console.log("La resta es : "+ resta);
 console.log("La multiplicacion es : "+ multiplicacion);
