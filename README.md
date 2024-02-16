@@ -1,5 +1,5 @@
 # Ejercicios-JavaScript-Alan
-**Ejercicio 1: Calculadora con 4 opereaaciones a traves de datos ingresados por teclado**
+**Sección de Ejercicios de JavaScript**
 
 <h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
 
@@ -22,4 +22,4 @@
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="GIF" src="https://midu.dev/images/wallpapers/javascript-small-horizontal-4k.png" />
