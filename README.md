@@ -1,32 +1,25 @@
 # Ejercicios-JavaScript-Alan
 **Ejercicio 1: Calculadora con 4 opereaaciones a traves de datos ingresados por teclado**
 
-//Created By: Alan el Programador y Alan Espinoza
+<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
 
-//CALCULADORA EN JAVASCRIPT
-
-
-var numero_a= prompt("Ingrese el primer numero: ");
-numero_a = parseInt(numero_a);//Se tranforma el vaalor digitado a int
-
-
-var numero_b= prompt("Ingrese el segundo numero: ")
-numero_b = parseInt(numero_b);
-
-
-//Vamos hacer las variables de las operaciones y sus operaciones respectivas
-
-var suma = numero_a + numero_b;//Hacemos la suma
-
-var resta= numero_a - numero_b;//Hacemos la resta
-
-var multiplicacion=numero_a * numero_b;//Hacemos la multiplicacion
-
-var division= numero_a /numero_b; //Hacemos la division
+<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/j.sanskarr/">
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://twitter.com/TitanWithKagune">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
 
 
-//Mostrar los resultados de las operaciones
-console.log("La suma es : "+ suma);
-console.log("La resta es : "+ resta);
-console.log("La multiplicacion es : "+ multiplicacion);
-console.log("La division es : "+ division);
+
+
+<br />
+<br />
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
