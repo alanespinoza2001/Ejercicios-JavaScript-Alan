@@ -1,0 +1,14 @@
+//Ejercicio 2
+//Invertir una cadena de texto por medio de una algoritmo
+
+
+var text ='reconocer';//Variable declarada para el texto a invertir 
+var resultado = "";//Aca se guardara la nueva palabra invertida
+
+
+for (var i= text.length-1; i>=0;i--){//este ciclo servira para recorrer la palabra de manera inversa
+    
+    resultado  += text[i];//esto sirve para concatenar las letras por indice
+    
+}
+console.log(resultado);//aca muestra la palabra invertida
