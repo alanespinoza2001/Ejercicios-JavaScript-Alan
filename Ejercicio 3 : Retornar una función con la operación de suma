@@ -1,0 +1,13 @@
+//Programador Alan Espinoza
+//Creamos la Función en este caso se va llamar sumar
+
+function sumar(num1, num2) {//en los parametros le pasamos los valores a sumar
+    return num1 + num2;// con la palabra reservada return retornamos la suma con los valores de los parametros
+}
+
+
+//Creamos una variable llamada sumita para almacenar la función en donde colocaremos los numeros a sumar en este caso el 2 y el 3
+var sumita= sumar(2,3);
+
+//Mostramos las variable creada para ver que contiene.
+console.log(sumita);
