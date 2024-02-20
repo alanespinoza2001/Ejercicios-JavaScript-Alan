@@ -9,7 +9,8 @@
 <img align="right" alt="GIF" src="https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI"/>
 
 
-**Sobre este Repositorio!**
+<h3 title="hehehe"> ¿Que encontraras aqui?</h3>
+
 <br />
 En esta Seccion encontraras los ejercicios de javaScript que ire realizando a medida del tiempo para que avayas aprendiendo de este lenguaje 
 de programación denominado JavaScript.
