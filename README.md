@@ -6,7 +6,7 @@
 
 
  
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1200/1*yUNfohs9jA6GCDmyCYJTvA@2x.png height=300px"/>
+<img align="right" alt="GIF" src="https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI"/>
 
 
 **Sobre este Repositorio!**
