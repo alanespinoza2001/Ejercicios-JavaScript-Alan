@@ -11,7 +11,8 @@
 
 **Sobre este Repositorio!**
 <br />
-En esta Seccion encontraras los ejercicios de javaScript que ire realizando a medida del tiempo
+En esta Seccion encontraras los ejercicios de javaScript que ire realizando a medida del tiempo para que avayas aprendiendo de este lenguaje 
+de programación denominado JavaScript.
 
 
 
