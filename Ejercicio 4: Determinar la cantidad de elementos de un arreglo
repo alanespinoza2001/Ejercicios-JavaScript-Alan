@@ -1,0 +1,7 @@
+//Alan Espinoza
+//Creamos un arreglo llamado numeros 
+var numeros = [1,5,6,7,8,10,65,6,4,5,6];
+
+//imprimimos el arreglo por pantalla , vemos la cantidad que tiene con la
+//propiedad length que determina la longitud del arreglo
+console.log(numeros.length);
