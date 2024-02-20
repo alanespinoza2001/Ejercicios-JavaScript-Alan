@@ -7,7 +7,7 @@
 
  
 
-  <img align="right" alt="GIF" src="https://trellat.es/wp-content/uploads/2015/02/javascript_logo.png" />
+  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0oCn5TKB34YcGTs8ajxLsL&ust=1708541647620000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC2k-LLuoQDFQAAAAAdAAAAABAE" />
 
 
 **Sobre este Repositorio!**
