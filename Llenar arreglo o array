@@ -1,0 +1,15 @@
+const miArreglo = [];
+
+// Pedir al usuario que ingrese la cantidad de elementos que desea en el arreglo
+const cantidadElementos = prompt("Ingrese la cantidad de elementos para el arreglo:");
+
+// Convertir la entrada del usuario a un número entero
+const cantidad = parseInt(cantidadElementos);
+
+// Pedir al usuario que ingrese cada elemento del arreglo
+for (let i = 0; i < cantidad; i++) {
+  const elemento = prompt("Ingrese el elemento " + (i + 1) + ":");
+  miArreglo.push(elemento);
+}
+
+console.log(miArreglo);
